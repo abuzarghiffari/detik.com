@@ -172,4 +172,7 @@ footer .footer-nav  .footer-item {
 
   main .advert img {
     display: none; }
+  footer .footer-nav {
+    width: 100%;
+  }
 }

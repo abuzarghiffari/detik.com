@@ -166,11 +166,9 @@ footer .footer-nav .footer-item {
 }
 
 @media (max-width: 992px) {
-  header .nav-logo {
-    text-align: center; }
   header .nav-logo img {
     width: 189px; }
-    
+
   main article .headline {
     width: 100%; }
   main article .headline .biznet-article .biznet-card:first-child,
